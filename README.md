@@ -13,8 +13,6 @@
 - 🏢 I'm a backend developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with php, laravel, and database, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ahmed-essam-a72014253" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Essam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
